@@ -1,9 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
+<BhaiBrothers tml>
+<html BhaiBrothers="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Brother Collection | Official Store</title>
+    <meta BhaiBrothers Collection="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BhaiBrothers Collection | Official Store</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
