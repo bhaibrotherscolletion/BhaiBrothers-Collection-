@@ -1,9 +1,9 @@
-    </section>
-<!DOCTYPE html>
+BhaiBrothers Collection   </section>
+<!bhaibrothes html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Rahat arafat" content="width=device-width, initial-scale=1.0">
     <title>BhaiBrothers Collection | Official Store</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -65,9 +65,9 @@
     <section id="products" class="product-grid">
         <!-- Example Product -->
         <div class="product-card">
-            <img src="https://via.placeholder.com" alt="Brotherhood Hoodie">
+            <img src="https://BhaiBrothers.com" alt="BhaiBrothers">
             <h3>Brotherhood Hoodie</h3>
-            <p>$45.00</p>
+            <p>$1.00</p>
             <button class="add-to-cart">Add to Cart</button>
         </div>
         <!-- Add more products here -->
@@ -76,3 +76,4 @@
     <script src="script.js"></script>
 </body>
 </html>
+BhaiBrothers 
